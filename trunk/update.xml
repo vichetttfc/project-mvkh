@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+<title>New version 6.0.0.0 is available for AutoUpdaterTest</title>
+<version>6.0.0.0</version>
+<url>http://localhost/updater/autoUpdatertest.exe</url>
+<changelog>http://localhost/updater/update.html</changelog>
+</item>
