@@ -3,5 +3,5 @@
 <title>New version 6.0.0.0 is available for AutoUpdaterTest</title>
 <version>6.0.0.0</version>
 <url>http://localhost/updater/autoUpdatertest.exe</url>
-<changelog>http://localhost/updater/update.html</changelog>
+<changelog>https://project-mvkh.googlecode.com/svn/trunk/Update.html</changelog>
 </item>
